@@ -1,2 +1,3 @@
-print('Task 1')
-добавь ввод данных
+a = input()
+print(a)
+
